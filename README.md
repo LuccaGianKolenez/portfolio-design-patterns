@@ -148,7 +148,7 @@ const o = new Order(); o.status = 'paid';
 
 ---
 
-## SObre
+## Sobre
 > Este repositório demonstra Factory, Strategy e Observer, além de CQRS e Event Sourcing, implementados em TypeScript e Python, com testes e CI. Uso exemplos curtos para focar em princípios como OCP, SRP e separação de leitura/escrita. É um laboratório que eu reaproveito em projetos reais.
 
 ---
