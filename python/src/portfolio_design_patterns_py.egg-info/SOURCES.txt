@@ -1,0 +1,10 @@
+pyproject.toml
+src/patterns/factory/concrete_products.py
+src/patterns/factory/product.py
+src/patterns/factory/product_factory.py
+src/portfolio_design_patterns_py.egg-info/PKG-INFO
+src/portfolio_design_patterns_py.egg-info/SOURCES.txt
+src/portfolio_design_patterns_py.egg-info/dependency_links.txt
+src/portfolio_design_patterns_py.egg-info/requires.txt
+src/portfolio_design_patterns_py.egg-info/top_level.txt
+tests/test_factory.py
